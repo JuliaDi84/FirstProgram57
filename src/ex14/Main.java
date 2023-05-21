@@ -15,6 +15,7 @@ public class Main {
 
             }
         }
+        System.out.println();
         printTable(tabel);
         Scanner scanner = new Scanner(System.in);
         while (true) {
